@@ -117,11 +117,13 @@ Git • GitHub • VS Code
 
 ---
 
-# 📌 Projetos em Destaque
+# 📈 GitHub Metrics
 
-<a href="https://github.com/lucas-bispo-correa/NOME_DO_REPOSITORIO">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucas-bispo-correa&repo=NOME_DO_REPOSITORIO&theme=github_dark"/>
-</a>
+<p align="center">
+
+<img src="./github-metrics.svg"/>
+
+</p>
 
 ---
 
