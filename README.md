@@ -26,25 +26,14 @@
 # 📊 Estatísticas
 
 <p align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-bispo-correa&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucas-bispo-correa&theme=github_dark"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucas-bispo-correa&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-bispo-correa&theme=github_dark"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucas-bispo-correa&theme=github_dark&utcOffset=-3"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-bispo-correa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas-bispo-correa&layout=compact&theme=github_dark"
+  />
 </p>
 
 ---
@@ -52,8 +41,17 @@
 # 🛠️ Tecnologias
 
 <p align="center">
+💻 Linguagens
+JavaScript • C • C++ • C#
 
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,arduino,git,github,vscode&theme=dark"/>
+🌐 Front-end
+HTML • CSS
+
+🔧 Hardware
+Arduino
+
+🛠️ Ferramentas
+Git • GitHub • VS Code
 
 </p>
 
@@ -63,7 +61,6 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
 
 </p>
 
@@ -120,13 +117,11 @@
 
 ---
 
-# 🏆 Conquistas
+# 📌 Projetos em Destaque
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucas-bispo-correa&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
+<a href="https://github.com/lucas-bispo-correa/NOME_DO_REPOSITORIO">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucas-bispo-correa&repo=NOME_DO_REPOSITORIO&theme=github_dark"/>
+</a>
 
 ---
 
