@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Lucas Bispo Corrêa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Técnico+em+Eletrônica;Estudante+de+Engenharia+de+Computação;Apaixonado+por+Hardware+e+Software;Sistemas+Embarcados+%7C+Automação+%7C+JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=T%C3%A9cnico+em+Eletr%C3%B4nica;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Apaixonado+por+Hardware+e+Software;Sistemas+Embarcados+%7C+Automa%C3%A7%C3%A3o+%7C+JavaScript" />
 </p>
 
 <p align="center">
@@ -41,17 +41,31 @@
 # 🛠️ Tecnologias
 
 <p align="center">
+  
 💻 Linguagens
-JavaScript • C • C++ • C#
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-orange?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/C-lightblue?style=flat&logo=c">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus">
+</div>
 
 🌐 Front-end
-HTML • CSS
+<div>
+  <img src="https://img.shields.io/badge/HTML-purple?style=flat&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css">
+</div>
 
 🔧 Hardware
-Arduino
+<div>
+  <img src="https://img.shields.io/badge/Arduino-%2300878F?style=flat&logo=arduino&color=%2300878F">
+</div>
 
 🛠️ Ferramentas
-Git • GitHub • VS Code
+<div>
+  <img src="https://img.shields.io/badge/Git-%23FC6D26?style=flat&logo=git&color=%23FC6D26">
+  <img src="https://img.shields.io/badge/GitHub-%23FC6D26?style=flat&logo=github&color=%23181717">
+  <img src="https://img.shields.io/badge/IDE%20-%20VSCode%20-%20purple?style=flat&logo=visual-studio-code&color=%23181717">
+</div>
 
 </p>
 
