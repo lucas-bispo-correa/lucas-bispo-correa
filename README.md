@@ -117,16 +117,6 @@ Git • GitHub • VS Code
 
 ---
 
-# 📈 GitHub Metrics
-
-<p align="center">
-
-<img src="./github-metrics.svg"/>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=lucas-bispo-correa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
