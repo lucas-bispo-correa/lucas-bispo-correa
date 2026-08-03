@@ -78,7 +78,7 @@
 
 </p>
 
-- JavaScript
+- JavaScript, React, JSX e Typescript
 - Git e GitHub
 - Desenvolvimento Web
 - Boas práticas de programação
