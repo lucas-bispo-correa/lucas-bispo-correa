@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus">
 </div>
 
-🌐 Front-end
+🌐 Front-end | Back-End
 <div>
   <img src="https://img.shields.io/badge/HTML-purple?style=flat&logo=html5">
   <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css">
